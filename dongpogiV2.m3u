@@ -1,21 +1,14 @@
 #EXTM3U
 
 
-
-#EXTINF:-1 tvg-id="Dummy" tvg-name="Sku Cinema Drama" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/8/86/Sky_Cinema_Drama_%282020-.n.v.%29.png" group-title="Movie Central",Sky Cinema Drama
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=190865&extension=m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-name="Sky Cinema Animation" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/Sky_Cinema_Animation_Oct_2017.png" group-title="KIDS NETWORKS",Sky Cinema Animation
+http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=339670&extension=m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-name="Sky Cinema Action" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Sky_Cinema_Action_DE_Logo_2016.png" group-title="Movie Central",Sky Cinema Action
 http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=113865&extension=m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-name="Sky Cinema Comedy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Sky_Cinema_Comedy_-_Logo_2016.svg/2560px-Sky_Cinema_Comedy_-_Logo_2016.svg.png" group-title="Movie Central",Sky Cinema Comedy
 http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=339672&extension=m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-name="Sky Cinema Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Sky_Cinema_Family_DE_Logo_2016.png" group-title="Movie Central",Sky Cinema Family
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=12474&extension=m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-name="Sky Cinema Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Sky_Cinema_Hits_-_Logo_2016.svg/1200px-Sky_Cinema_Hits_-_Logo_2016.svg.png" group-title="Movie Central",Sky Cinema Hits
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=80309&extension=m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-name="Sky Cinema Sci-Fi & Horror" tvg-logo="https://tvguidetonight.co.uk/wp-content/uploads/2020/06/sky-cinema-sci-fi-horror.png" group-title="Movie Central",Sky Cinema Sci-Fi & Horror
 http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=113867&extension=m3u8
@@ -30,8 +23,6 @@ http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=472273&e
 http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=21109&extension=m3u8
 
 
-#EXTINF:-1 tvg-id="Dummy" tvg-name="Sky Cinema Animation" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/Sky_Cinema_Animation_Oct_2017.png" group-title="KIDS NETWORKS",Sky Cinema Animation
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=339670&extension=m3u8
 
 #EXTINF:-1 tvg-id="DISCOVERY.ph" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/discov.png" group-title="Local",Discovery Channel
 https://bit.ly/4fnsUV0
