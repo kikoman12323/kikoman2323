@@ -46,12 +46,6 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/viva_sd.mpd
 #EXTINF:-1 tvg-id="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1280px-Cinemax_%28Yellow%29.svg.png" group-title="General", CINEMAX (US)
 http://170.254.18.106/CINEMAX/index.m3u8
 
-#EXTINF:-1 tvg-id="Cinemax" ch-number="412" group-title="Local" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch113_170_122",Cinemax
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=efdb2a8d39151cc39f4b51d762cf9c10:13cc535ad4a73201147863cac386cdd3
-https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default.mpd
-
-
 #EXTINF: -1 tvg-id="COMEDY CENTRAL"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLPoGVOjX2EdR9hLszsMeiWB1ENPRQOVWfvA&usqp=CAU" group-title="General", COMEDY CENTRAL
 http://170.254.18.106/COMEDY_CENTRAL/index.m3u8
 
