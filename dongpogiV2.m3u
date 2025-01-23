@@ -44,6 +44,13 @@ http://170.254.18.106/COMEDY_CENTRAL/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fHBIgs6l.png" group-title="General", HBO (US)
 http://143.244.60.97/HBO/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" group-title="Local", HBO HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WANpEkcl.png" group-title="General", HBO Family (US)
 http://212.102.60.231/HBO_FAMILY/index.m3u8
 
@@ -97,7 +104,7 @@ https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/pbo_sd.mpd
 
 #EXTINF:0 tvg-country="PH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/512px-Cinema_One_2013_logo.svg.png" group-title="Movies",Cinema One
-https://cinemaone-abscbn-ono.amagi.tv/index.m3u8?checkedby:iptvcat.com
+https://ln.run/Zc85c
 
 #EXTINF:0 tvg-country="PH" tvg-logo="https://i.imgur.com/pbHuUuV.png" group-title="Undefined",MYX Philippines
 https://myxnola-abscbn-ono.amagi.tv/index.m3u8?checkedby:iptvcat.com
