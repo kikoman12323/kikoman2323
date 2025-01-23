@@ -2,6 +2,10 @@
 
 
 
+
+#EXTINF:-1 tvg-id="DISCOVERY.ph" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/discov.png" group-title="Local",Discovery Channel
+https://bit.ly/4fnsUV0
+
 #EXTINF:-1 group-title="General",Hallmark Drama
 https://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
 
