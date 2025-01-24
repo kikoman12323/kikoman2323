@@ -93,6 +93,11 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/viva_sd.mpd
 #EXTINF:-1 tvg-id="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1280px-Cinemax_%28Yellow%29.svg.png" group-title="General", CINEMAX (US)
 http://170.254.18.106/CINEMAX/index.m3u8
 
+#EXTINF:-1 tvg-id="CINEMAX.HD.my" ch-number="412" group-title="GABRIEL : FREE LOCAL PLAYLIST" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch113_170_122",Cinemax
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
+
 #EXTINF: -1 tvg-id="COMEDY CENTRAL"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLPoGVOjX2EdR9hLszsMeiWB1ENPRQOVWfvA&usqp=CAU" group-title="General", COMEDY CENTRAL
 http://170.254.18.106/COMEDY_CENTRAL/index.m3u8
 
