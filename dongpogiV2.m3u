@@ -22,6 +22,8 @@ http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=472273&e
 #EXTINF:-1 tvg-id="Dummy" tvg-name="Star Movies Select HD" tvg-logo="https://i.imgur.com/7OjPgvd.png" group-title="Movie Central",Star Movies Select HD
 http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=21109&extension=m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" ,TLC
+https://cdn09jtedge.indihometv.com/joss/133/disco/index.m3u8
 
 
 #EXTINF:-1 tvg-id="DISCOVERY.ph" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/discov.png" group-title="Local",Discovery Channel
