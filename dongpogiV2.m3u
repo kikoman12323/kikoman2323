@@ -149,7 +149,7 @@ https://mytime-tcl.amagi.tv/playlist.m3u8
 http://115.146.176.131:80/play/5i_LtAbpY7PhHy5sbZlWo1zYTxG-py1tWe97L_Ni7xk/ts
 
 #EXTINF:0 tvg-country="PH" tvg-logo="https://th.bing.com/th/id/OIP.LwRxviPB5gXQ_20tvl9nVgHaEd?rs=1&pid=ImgDetMain" group-title="Movies;Undefined",Cinemo!
-https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+https://d1bail49udbz1k.cloudfront.net/out/v1/78e282e04f0944f3ad0aa1db7a1be645/index_3.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Cinemaworld" tvg-logo="https://htvc.vn/uploads/editor/images/Cinemaworld.png" group-title="Local",CinemaWorld
 https://bit.ly/4hiUdRY
