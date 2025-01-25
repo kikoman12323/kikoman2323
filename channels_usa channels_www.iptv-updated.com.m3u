@@ -1,0 +1,707 @@
+#EXTM3U
+#EXTINF:-1 group-title="USA Channels",W14DK-D 14.3 RetroTV
+https://2-fss-2.streamhoster.com/pl_118/204972-1954132-1/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",W14DK-D 14.5 All Sports Television Network
+https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",W14DK-D 14.7 Heartland Channel
+https://2-fss-2.streamhoster.com/pl_118/amlst:204972-3078008/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",WildEarth
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",WTSP CBS 10
+https://video.tegnaone.com/wtsp/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WTSP-Production/live/index.m3u8
+#EXTINF:-1 group-title="USA Channels",Wu Tang Collection
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=73
+#EXTINF:-1 group-title="USA Channels",Yahoo! Finance
+https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",Youtoo America
+https://thegateway.app/YouToo/CueTones/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",Youtoo America
+https://thegateway.app/YouToo/YTamerica/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",TVS Vintage Network
+https://bozztv.com/gusa/gusa-tvsvintage/index.m3u8
+#EXTINF:-1 group-title="USA Channels",TVS Western Movie
+https://bozztv.com/gusa/gusa-tvswesternmovies/index.m3u8
+#EXTINF:-1 group-title="USA Channels",UN Web TV
+https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 group-title="USA Channels",Velayat TV
+https://nl.livekadeh.com/hls2/velayattv.m3u8
+#EXTINF:-1 group-title="USA Channels",Vice East
+https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",Village of Hastings-On-Hudson NY
+https://stream.swagit.com/live-edge/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",VOA Persian
+https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",VOA TV Africa
+https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",W14DK-D 14.1 TV Delmarva
+https://2-fss-2.streamhoster.com/pl_118/amlst:204972-1949480/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",W14DK-D 14.2 NEWSNET
+https://2-fss-2.streamhoster.com/pl_118/204972-1954106-1/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",TVS Nostalgia Movies
+https://bozztv.com/gusa/gusa-tvsNostalgiaMovies/index.m3u8
+#EXTINF:-1 group-title="USA Channels",TVS Pet Parade Network
+https://bozztv.com/gusa/gusa-petparadenetwork/index.m3u8
+#EXTINF:-1 group-title="USA Channels",TVS Pinball Network
+https://bozztv.com/gusa/gusa-TVSCartoonNetwork/index.m3u8
+#EXTINF:-1 group-title="USA Channels",TVS Quiz Show Network
+https://bozztv.com/gusa/gusa-tvsgameshow/index.m3u8
+#EXTINF:-1 group-title="USA Channels",TVS Select Network
+https://bozztv.com/gusa/gusa-tvsselect/index.m3u8
+#EXTINF:-1 group-title="USA Channels",TVS Sports
+https://bozztv.com/gusa/gusa-tvssports/index.m3u8
+#EXTINF:-1 group-title="USA Channels",TVS Talk Network
+https://bozztv.com/gusa/gusa-TVStalk/index.m3u8
+#EXTINF:-1 group-title="USA Channels",TVS Tally Ho
+https://bozztv.com/gusa/gusa-tvstallyho/index.m3u8
+#EXTINF:-1 group-title="USA Channels",TVS Travel Network
+https://bozztv.com/gusa/gusa-tvstravel/index.m3u8
+#EXTINF:-1 group-title="USA Channels",TVS Turbo
+https://bozztv.com/gusa/gusa-tvsturbo/index.m3u8
+#EXTINF:-1 group-title="USA Channels",TVS Cipher Network
+https://bozztv.com/gusa/gusa-tvsmystery/index.m3u8
+#EXTINF:-1 group-title="USA Channels",TVS Classic Movies
+https://bozztv.com/gusa/gusa-tvsclassicmovies/index.m3u8
+#EXTINF:-1 group-title="USA Channels",TVS Comedy Network
+https://bozztv.com/gusa/gusa-tvscomedy/index.m3u8
+#EXTINF:-1 group-title="USA Channels",TVS Drive In Movie
+https://bozztv.com/gusa/gusa-tvsdriveinmovie/index.m3u8
+#EXTINF:-1 group-title="USA Channels",TVS Family Channel
+https://bozztv.com/gusa/gusa-TVSFamilyChannel/index.m3u8
+#EXTINF:-1 group-title="USA Channels",TVS Flashback Network
+https://bozztv.com/gusa/gusa-TVSFlashback/index.m3u8
+#EXTINF:-1 group-title="USA Channels",TVS Frontier Network
+https://bozztv.com/gusa/gusa-tvsfrontier/index.m3u8
+#EXTINF:-1 group-title="USA Channels",TVS Hi Tops
+https://bozztv.com/gusa/gusa-hitops/index.m3u8
+#EXTINF:-1 group-title="USA Channels",TVS Hollywood History
+https://bozztv.com/gusa/gusa-tvshollywoohistory/index.m3u8
+#EXTINF:-1 group-title="USA Channels",TVS Music Network
+https://bozztv.com/gusa/gusa-tvsmusic/index.m3u8
+#EXTINF:-1 group-title="USA Channels",TVS Nostalgia
+https://bozztv.com/gusa/gusa-nostalgia/index.m3u8
+#EXTINF:-1 group-title="USA Channels",Tin TV
+https://bozztv.com/1gbw5/tintv/tintv/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",TM TV
+https://hls.tmtv.live/hls/stream.m3u8
+#EXTINF:-1 group-title="USA Channels",Toon Goggles
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=37
+#EXTINF:-1 group-title="USA Channels",Toonami Aftermath East
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",Toonami Aftermath Movies
+http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",Toonami Aftermath Radio
+http://api.toonamiaftermath.com:3000/radio/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",Travel Adventures with Jeff Swan
+https://app.viloud.tv/hls/channel/0d984388834adac967a4ec4e69bc8271.m3u8
+#EXTINF:-1 group-title="USA Channels",TUTV
+https://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",TVS Bowling Network
+https://bozztv.com/gusa/gusa-tvsbowling/index.m3u8
+#EXTINF:-1 group-title="USA Channels",The Grapevine
+https://ov.ottera.tv/live/master.m3u8?channel=mcom_gv_us
+#EXTINF:-1 group-title="USA Channels",The Library Channel TV18
+https://reflect-memphis.cablecast.tv/live-2/live/live.m3u8
+#EXTINF:-1 group-title="USA Channels",The Nest
+https://content.uplynk.com/channel/b468fd41b60840579668c42c096a4103.m3u8
+#EXTINF:-1 group-title="USA Channels",The Ultimate Music Channel
+https://app.viloud.tv/hls/channel/0694b92d093cc2bd5438ff9bbccaf1a2.m3u8
+#EXTINF:-1 group-title="USA Channels",The Wall Street Journal Live
+https://d155hi8td9k2ns.cloudfront.net/out/wapo-medialive3-rtmp/live.m3u8
+#EXTINF:-1 group-title="USA Channels",The Word Network
+https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",This TV Network
+https://cdn.igocast.com/channel11_hls/channel11_master.m3u8
+#EXTINF:-1 group-title="USA Channels",Three Angels Broadcasting Network English
+https://3abn-live.akamaized.net/hls/live/2010543/3ABN/master.m3u8
+#EXTINF:-1 group-title="USA Channels",Three Angels Broadcasting Network French
+https://3abn-live.akamaized.net/hls/live/2010546/French/master.m3u8
+#EXTINF:-1 group-title="USA Channels",Three Angels Broadcasting Network International
+https://3abn-live.akamaized.net/hls/live/2010544/International/master.m3u8
+#EXTINF:-1 group-title="USA Channels",Three Angels Broadcasting Network Kids Network
+https://3abn-live.akamaized.net/hls/live/2010550/Kids/master.m3u8
+#EXTINF:-1 group-title="USA Channels",Three Angels Broadcasting Network Latino
+https://3abn-live.akamaized.net/hls/live/2010547/Latino/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",Three Angels Broadcasting Network Praise Him Music Network
+https://3abn-live.akamaized.net/hls/live/2010551/Praise_Him/master.m3u8
+#EXTINF:-1 group-title="USA Channels",Techno Warehouse
+https://m2b2.worldcast.tv:7443/dancetelevisionthree/dancetelevisionthree.m3u8
+#EXTINF:-1 group-title="USA Channels",Telemundo Corpus Christi
+https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
+#EXTINF:-1 group-title="USA Channels",Telemundo East
+https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
+#EXTINF:-1 group-title="USA Channels",Telemundo West
+https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8?delay=10800
+#EXTINF:-1 group-title="USA Channels",Teve Vida Network
+https://5bf8041cb3fed.streamlock.net/Tevevida/Tevevida/.m3u8
+#EXTINF:-1 group-title="USA Channels",The Archive
+https://ov.ottera.tv/live/master.m3u8?channel=mcom_ta_us
+#EXTINF:-1 group-title="USA Channels",The Archive
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=74
+#EXTINF:-1 group-title="USA Channels",The Boat Show
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/14c063cc-8be5-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips
+#EXTINF:-1 group-title="USA Channels",The Filipino Channel Guam
+https://tfcguam-abscbn-ono.amagi.tv/index.m3u8
+#EXTINF:-1 group-title="USA Channels",Sky TV New York
+https://tvsw2-hls.secdn.net/tvsw2-chorigin/play/prod-2cb201942c94460d9356b2c138272263/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",Spirit TV
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
+#EXTINF:-1 group-title="USA Channels",Stockton GovTV
+https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/stockton/G0044_008/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",Story Television
+https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8
+#EXTINF:-1 group-title="USA Channels",SUMtv Latino
+https://bozztv.com/uni10rtmp/ssstv2-cdn/smil:ssstv2web.smil/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",Talkin Live Classics TV
+https://2-fss-1.streamhoster.com/pl_122/206338-3120682-1/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",TBN East
+https://d7ge95bb03xsu.cloudfront.net/out/v1/0c95a89614194912834019fc37d741ef/tbn-freecast.m3u8
+#EXTINF:-1 group-title="USA Channels",TBN Pacific
+https://broadcast.tbnpacific.org.au:4430/stream/TBNPacificTV/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",TD Ameritrade Network
+https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8
+#EXTINF:-1 group-title="USA Channels",Revry Brasil
+https://2f28484b7a024fdf836f0f4a78ffb214.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-181-REVRYBRAZIL-BRIGHTCOVE/mt/brightcove/181/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",Revry Her
+https://6bda80f950a748f2870036a8a4825727.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-73-OML-BRIGHTCOVE/mt/brightcove/73/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",Revry LatinX
+https://bcb8278f10bc4ab698cba66524d46b6f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-142-REVRY-BRIGHTCOVE/mt/brightcove/142/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",Revry News
+https://735d81460ce14f66bb1b9ebdaebd61ea.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-44-REVRYNOW-BRIGHTCOVE/mt/brightcove/44/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",RFD-TV
+https://rfdtv-jw.cdn.vustreams.com/live/7cba1a3b-318a-4097-8492-374478370b91/live.isml/7cba1a3b-318a-4097-8492-374478370b91.m3u8
+#EXTINF:-1 group-title="USA Channels",Sada-E-Haq TV
+https://live.relentlessinnovations.net:1936/sadaehaq/sadaehaq/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",Scientology Network
+https://stream6.scientology.org/master.m3u8
+#EXTINF:-1 group-title="USA Channels",Shabakeh 7
+https://t.northtelecom.org/Shabakeh.m3u8
+#EXTINF:-1 group-title="USA Channels",SKWAD
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=71
+#EXTINF:-1 group-title="USA Channels",Payvand TV
+https://bozztv.com/cus01/ucur1/Payvand/index.m3u8
+#EXTINF:-1 group-title="USA Channels",Positiv
+https://tbn-jw.cdn.vustreams.com/live/positivtv/live.isml/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",Potta-Divine TV USA
+https://playout7multirtmp.tulix.tv/live21/Stream1/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",QVC Japan
+https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+#EXTINF:-1 group-title="USA Channels",QVC West
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uswest/master.m3u8
+#EXTINF:-1 group-title="USA Channels",Radio Ritmo
+https://panel.tvstream.cl:1936/8046/8046/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",RadioMensaje TV
+https://eu1.servers10.com:8081/8230/index.m3u8
+#EXTINF:-1 group-title="USA Channels",Reelz
+https://bcovlive-a.akamaihd.net/rc21a8bc6455344c699a06e9220fe2748/us-west-2/5245389775001/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",Revry 2
+https://785e3b6ff91d4c6db1d8a5b67a894571.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-5-REVRY-BRIGHTCOVE/mt/brightcove/5/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",Novelisima
+https://dai.google.com/linear/hls/event/sFuxwI37R9KMTs-KywMcBg/master.m3u8
+#EXTINF:-1 group-title="USA Channels",NTD TV (New Tang Dynasty Television)
+http://cnhls.ntdtv.com/cn/live400/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",NTD TV East (New Tang Dynasty Television)
+https://ntd02.akamaized.net/NTDA/index.m3u8
+#EXTINF:-1 group-title="USA Channels",NTD TV UK (New Tang Dynasty Television)
+https://ntd02.akamaized.net/NTD-UK/index.m3u8
+#EXTINF:-1 group-title="USA Channels",NTD TV West (New Tang Dynasty Television)
+https://ntd02.akamaized.net/NTD-West/index.m3u8
+#EXTINF:-1 group-title="USA Channels",Omid Javedan
+http://livestream.5centscdn.com/shaditv/23abe62a446fc05ce0a6c810f4045308.sdp/index.m3u8
+#EXTINF:-1 group-title="USA Channels",Panarmenian TV
+https://us1.ottstream.live:17071/C279/index.m3u8?token=123TREWQ456
+#EXTINF:-1 group-title="USA Channels",Payam-e-Afghan TV
+https://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b086123b70.sdp/mono.m3u8
+#EXTINF:-1 group-title="USA Channels",Nashua ETV Channel 22 Nashua NH
+https://livestream.telvue.com/nashuanh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",Nashua GTV Channel 16 Nashua NH
+https://livestream.telvue.com/nashuanh3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",NBC Chicago News 24/7
+https://nbculocalfast.akamaized.net/hls/live/2096797/nbcchicago/master.m3u8
+#EXTINF:-1 group-title="USA Channels",NBCLX
+https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
+#EXTINF:-1 group-title="USA Channels",Nick Music
+http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8
+#EXTINF:-1 group-title="USA Channels",Nothing Scripted
+https://30a-tv.com/NothingScripted.m3u8
+#EXTINF:-1 group-title="USA Channels",Mohabat TV
+http://media.mohabat.tv:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",Motorbikes & Engines
+https://motors.playout.vju.tv/motors/main.m3u8
+#EXTINF:-1 group-title="USA Channels",MTC
+https://mtchls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="USA Channels",MTV2
+https://fl2.moveonjoy.com/MTV_2/index.m3u8
+#EXTINF:-1 group-title="USA Channels",MTV Live
+https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
+#EXTINF:-1 group-title="USA Channels",mtvU
+https://fl2.moveonjoy.com/MTV_U/index.m3u8
+#EXTINF:-1 group-title="USA Channels",NASA TV Media
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+#EXTINF:-1 group-title="USA Channels",NASA TV Public
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 group-title="USA Channels",Majestad Televisión
+https://livetv.305streamhd.com:3667/live/majestadtvlive.m3u8
+#EXTINF:-1 group-title="USA Channels",Marquee Sports Network
+https://marqueelive.akamaized.net/live-pz/a/hls-itc/marquee1/index.m3u8
+#EXTINF:-1 group-title="USA Channels",MAV Select CANADA
+https://d70mb4nkspm3g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vvwqo3j029lz0/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",MAV Select USA
+https://d3h07n6l1exhds.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0z2yyo4dxctc7/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",MAVTV Motor Sports UK
+https://amg00378-maverickenterta-mavtv-smn-gb-samsung-rakuten-ozity.amagi.tv/playlist/amg00378-maverickenterta-mavtv-smn-gb-samsung-rakuten/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",MBC 1
+https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+#EXTINF:-1 group-title="USA Channels",MBC 1
+https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+#EXTINF:-1 group-title="USA Channels",Mega TV
+https://mdstrm.com/live-stream-playlist/660b066dae419408a11b6072.m3u8
+#EXTINF:-1 group-title="USA Channels",Merit Street
+https://tbn-jw.cdn.vustreams.com/live/merit-dev/live.isml/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",Lighting Lives Blessing Nations TV Arabic
+https://brightstar-arabic-pull-secure.akamaized.net/brightstararabic/stream.m3u8
+#EXTINF:-1 group-title="USA Channels",Lighting Lives Blessing Nations TV Chinese
+https://brightstar-chinese-pull-secure.akamaized.net/brightstarchinese/stream.m3u8
+#EXTINF:-1 group-title="USA Channels",Lighting Lives Blessing Nations TV Korean
+https://brightstar-korean-pull-secure.akamaized.net/brightstarkorean/stream.m3u8
+#EXTINF:-1 group-title="USA Channels",Lighting Lives Blessing Nations TV Latino
+https://brightstar-latino-pull-secure.akamaized.net/brightstarlatino/stream.m3u8
+#EXTINF:-1 group-title="USA Channels",Lighting Lives Blessing Nations TV Romanian
+https://brightstar-romanian-pull-secure.akamaized.net/brightstarromanian/stream.m3u8
+#EXTINF:-1 group-title="USA Channels",Lighting Lives Blessing Nations TV South Asia
+https://brightstar-southasia-pull-secure.akamaized.net/brightstarsouthasia/stream.m3u8
+#EXTINF:-1 group-title="USA Channels",Little Guyana TV
+https://video1.getstreamhosting.com:1936/8122/8122/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",Living Faith TV
+https://cdn-unified-hls.streamspot.com/ingest1/0b5c0f18e9/playlist.m3u8?origin=1
+#EXTINF:-1 group-title="USA Channels",Logos TV English
+https://5aafcc5de91f1.streamlock.net/logoschannel.com/logoseng/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",Loupe 4K
+https://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",Mad Dog and Merrill
+https://bozztv.com/gusa/gusa-mwg/index.m3u8
+#EXTINF:-1 group-title="USA Channels",IraneFarda TV
+https://hls.iranfarda.live/hls/stream.m3u8
+#EXTINF:-1 group-title="USA Channels",Jeffrey A Swanson Photography
+https://app.viloud.tv/hls/channel/07c8b76fa3a98409d527cede85852d55.m3u8
+#EXTINF:-1 group-title="USA Channels",Lacrosse TV
+https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
+#EXTINF:-1 group-title="USA Channels",Lighting Lives Blessing Nations His Light
+https://brightstar-hislight-pull-secure.akamaized.net/brightstarhislight/stream.m3u8
+#EXTINF:-1 group-title="USA Channels",Lighting Lives Blessing Nations His Word
+https://brightstar-hisword-pull-secure.akamaized.net/brightstarhisword/stream.m3u8
+#EXTINF:-1 group-title="USA Channels",Lighting Lives Blessing Nations Smart Life Style TV
+https://brightstar-sls-pull-secure.akamaized.net/brightstarsls/stream.m3u8
+#EXTINF:-1 group-title="USA Channels",HMI PROMZ NEWS
+https://video1.getstreamhosting.com:1936/8326/8326/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",HollyWire
+https://bozztv.com/hwotta/playlist/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",HSN2
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8
+#EXTINF:-1 group-title="USA Channels",HSN West
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1uswest/master.m3u8
+#EXTINF:-1 group-title="USA Channels",Humraaz TV [Not 24/7]
+https://cdn61.liveonlineservices.com/hls/humraaz.m3u8
+#EXTINF:-1 group-title="USA Channels",IMPACT Plus!
+https://d2tuwvs0ja335j.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 group-title="USA Channels",IMPACT Wrestling
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 group-title="USA Channels",In the kitchen
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8
+#EXTINF:-1 group-title="USA Channels",InfoWars Network
+https://freespeech.akamaized.net/hls/live/2016712/live1/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",InfoWars The Alex Jones Show
+https://freespeech.akamaized.net/hls/live/2024573/live2/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",InfoWars The American Journal
+https://freespeech.akamaized.net/hls/live/2016873/live3/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",InfoWars War Room With Owen Shroyer
+https://freespeech.akamaized.net/hls/live/2024574/live4/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",Golden TV
+https://bozztv.com/gusa/gusa-goldentv/index.m3u8
+#EXTINF:-1 group-title="USA Channels",Grit Xtra
+https://scripps-gritxtra-1-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",GTN Orlando
+https://tvsw1-hls.secdn.net/tvsw1-chorigin/play/prod-b9be4360b39e4414a5c30e5b0aa667c1/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",GTN South Florida
+https://tvsw2-hls.secdn.net/tvsw2-chorigin/play/prod-aa4d335124414856b118e943d91132d5/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",GuyBai TV
+https://tvsw2-hls.secdn.net/tvsw2-chorigin/play/prod-d7e7cf219d634e0bbf7d5340b4b537da/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",GuyTube TV
+https://tvsw2-hls.secdn.net/tvsw2-chorigin/play/prod-55ed6f9cb6d64b22a5eed2ea3f349533/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",Fox News Channel
+http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
+#EXTINF:-1 group-title="USA Channels",Fox Weather
+https://247wlive.foxweather.com/stream/index.m3u8
+#EXTINF:-1 group-title="USA Channels",Frecuencia Musical TV [Not 24/7]
+https://s2.tvdatta.com:3307/hybrid/play.m3u8
+#EXTINF:-1 group-title="USA Channels",FX East
+http://fl2.moveonjoy.com/FX/index.m3u8
+#EXTINF:-1 group-title="USA Channels",FXX East
+http://fl2.moveonjoy.com/FXX/index.m3u8
+#EXTINF:-1 group-title="USA Channels",Ganj e Hozour TV
+https://media.parvizshahbazi.com/ganjehozour/Main_tv/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",GBN Global Buddhist Network
+https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/us/gbnus.m3u8
+#EXTINF:-1 group-title="USA Channels",Global Christian Network America
+http://liveen24-manminglobal3.ktcdn.co.kr/liveen24/gcnus_1300k.stream/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",Global Fashion Channel
+https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",Go2Travel
+https://go2thls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="USA Channels",Everyday Refresh
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc6us/master.m3u8
+#EXTINF:-1 group-title="USA Channels",EWTN Africa Asia
+https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",EWTN Asia-Pacific
+https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",EWTN Canada
+https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",EWTN el Canal Católico
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",EWTN Estados Unidos
+https://cdn3.wowza.com/1/TUI5dU5ucnUxdGFD/ZFlVeGRl/hls/live/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",EWTN Europe
+https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",EWTN United States
+https://cdn3.wowza.com/1/QjRzVXJtVml5SUVx/WGJRSWxz/hls/live/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",Extrema TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",Fashion Finds
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/master.m3u8
+#EXTINF:-1 group-title="USA Channels",Flowers TV USA
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",Disney Jr.
+https://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
+#EXTINF:-1 group-title="USA Channels",Duck Hunting TV
+https://main.duckhunting.playout.vju.tv/duckhuntingtv/main.m3u8
+#EXTINF:-1 group-title="USA Channels",El Segundo Media
+https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/elsegundo/G0014_002/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",Elbeshara GTV
+http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",Electric Now
+https://elec-en.otteravision.com/elec/en/elec_en.m3u8
+#EXTINF:-1 group-title="USA Channels",Entertainment Tonight
+https://cbsta49f-cbsta49f-ms.global.ssl.fastly.net/amagi7b98-AmagiMixible/master/amagi7b98-AmagiMixible.m3u8
+#EXTINF:-1 group-title="USA Channels",ESR 24x7 eSports Network
+https://eyeonesports.com/ES2RA-628g.m3u8
+#EXTINF:-1 group-title="USA Channels",Eternal Life TV Network
+https://livecdn.live247stream.com/eternallife/tv/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",CSat TV
+https://5b622f07944df.streamlock.net/csat.tv/csat.smil/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",CT-N TV Conneticut
+http://video.ct-n.com/live/ctnstream/playlist_DVR.m3u8
+#EXTINF:-1 group-title="USA Channels",Cult Classic Movie Theater
+https://app.viloud.tv/hls/channel/053140e08adc29e3eac61eb05ff12f51.m3u8
+#EXTINF:-1 group-title="USA Channels",Dare To Dream Network
+https://3abn-live.akamaized.net/hls/live/2010545/D2D/master.m3u8
+#EXTINF:-1 group-title="USA Channels",Dateline 24/7
+https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8
+#EXTINF:-1 group-title="USA Channels",Del Mar TV
+https://d25ykpi2vxhoyc.cloudfront.net/delmar-cdn/dmtv/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",DerryTV 17
+https://livestream.telvue.com/derrynh1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",DerryTV 23
+https://livestream.telvue.com/derrynh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",Chef Roc Show
+https://bozztv.com/gusa/gusa-chefrock/index.m3u8
+#EXTINF:-1 group-title="USA Channels",CineLife
+https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",Classic Arts Showcase
+https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+#EXTINF:-1 group-title="USA Channels",Classic Cinema
+https://bozztv.com/gusa/gusa-classiccinema/index.m3u8
+#EXTINF:-1 group-title="USA Channels",CMC (California Music Channel)
+https://cmc-ono.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",Comet
+https://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
+#EXTINF:-1 group-title="USA Channels",Cooking Panda
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46
+#EXTINF:-1 group-title="USA Channels",County News Center
+https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/sdcounty/G0283_012/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",Camera Smile
+https://bozztv.com/gusa/gusa-camerasmile/index.m3u8
+#EXTINF:-1 group-title="USA Channels",Camp Spoopy
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
+#EXTINF:-1 group-title="USA Channels",Catholic TV
+https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8
+#EXTINF:-1 group-title="USA Channels",CBN Español
+https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/734546207001/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",CBN Family
+https://bcovlive-a.akamaihd.net/r602a47f47fee47bb83239eb1b1e1ac83/us-east-1/734546207001/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",CBN News National
+https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",CBS Sports Golazo Network
+https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
+#EXTINF:-1 group-title="USA Channels",CBS WTSPDT
+https://cbsplaylistserver.aws.syncbak.com/mpl/20160401/859169/5743360/media.m3u8?CMCD=mtp=9500,ot=m,sf=h,sid="4e546942-2006-495c-a946-06b8f3a0faca"&request_token=qvU7-FK2v-GKFp6gT19Ca6OGg-7v2h3rb7CH8dJb24xGNa9SybZzeslmzXfSuKr8yvmFHpHArbAEAylrbjN8plkYyR_E_ONwoEO5VbCnWRbPltjgakUcV3v7Ap37IjAJykCk5YrCty_Hx7AsXhusoGCdNFX5UwEk7oT3u6_r2xG4QXk
+#EXTINF:-1 group-title="USA Channels",Celebrity Scene TV
+https://bozztv.com/gusa/gusa-celebrityscene/index.m3u8
+#EXTINF:-1 group-title="USA Channels",CFN Catholic Faith Network
+https://uni8rtmp.tulix.tv/cfntv/cfntv/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",Charge!
+https://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
+#EXTINF:-1 group-title="USA Channels",Chef Champion
+https://bozztv.com/gusa/gusa-chefchampion/index.m3u8
+#EXTINF:-1 group-title="USA Channels",Bloomberg TV US
+https://bloomberg.com/media-manifest/streams/us.m3u8
+#EXTINF:-1 group-title="USA Channels",Bloomberg TV US Live Event
+https://bloomberg.com/media-manifest/streams/us-event.m3u8
+#EXTINF:-1 group-title="USA Channels",Bloomberg TV US Politics Live Event
+https://bloomberg.com/media-manifest/streams/politics.m3u8
+#EXTINF:-1 group-title="USA Channels",Bloomberg TV+
+https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
+#EXTINF:-1 group-title="USA Channels",BMC-HD TV
+https://livestream.telvue.com/belmontmedia4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",BX Arts
+https://reflect-stream-bronxnet.cablecast.tv/live-19/live/live.m3u8
+#EXTINF:-1 group-title="USA Channels",BX Culture
+https://reflect-stream-bronxnet.cablecast.tv/live-7/live/live.m3u8
+#EXTINF:-1 group-title="USA Channels",BX Inform
+https://reflect-stream-bronxnet.cablecast.tv/live-8/live/live.m3u8
+#EXTINF:-1 group-title="USA Channels",BX Inspire
+https://reflect-stream-bronxnet.cablecast.tv/live-18/live/live.m3u8
+#EXTINF:-1 group-title="USA Channels",BX Omni
+https://reflect-stream-bronxnet.cablecast.tv/live-16/live/live.m3u8
+#EXTINF:-1 group-title="USA Channels",Cafe Trade TV
+https://cafetradehls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="USA Channels",California Music Channel
+https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",BEK TV Sports West
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",Biz TV
+https://thegateway.app/BizAndYou/BizTV/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",Bloomberg Quicktake
+https://bloomberg.com/media-manifest/streams/qt.m3u8
+#EXTINF:-1 group-title="USA Channels",Bloomberg TV Australia
+https://bloomberg.com/media-manifest/streams/aus.m3u8
+#EXTINF:-1 group-title="USA Channels",Bloomberg TV Europe
+https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
+#EXTINF:-1 group-title="USA Channels",Bloomberg TV Europe
+https://bloomberg.com/media-manifest/streams/eu.m3u8
+#EXTINF:-1 group-title="USA Channels",America's Voice
+https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8
+#EXTINF:-1 group-title="USA Channels",Amga TV
+https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",Avang TV
+https://hls.avang.live/hls/stream.m3u8
+#EXTINF:-1 group-title="USA Channels",AXS TV NOW
+https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",Baby Shark TV
+https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",Banning CityTV
+https://vbfast-c.viebit.com/072e341f-100d-4da1-9c18-65370ebf35c6/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",Beach TV Florida & Alabama
+https://5ed325193d4e1.streamlock.net:444/LiveTV/DTVHD/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",Beach TV Key West & Florida Keys
+https://5ed325193d4e1.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",Beach TV Myrtle Beach & The Grand Strand
+https://5ed325193d4e1.streamlock.net:444/LiveTV/MTVHD/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",Beach TV Panama City
+https://5ed325193d4e1.streamlock.net:444/LiveTV/BTVHD/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",BEK TV News
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",Al-Fady TV
+https://5d658d7e9f562.streamlock.net/alfadytv.tv/alfadytv.smil/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",Alhurra
+https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8
+#EXTINF:-1 group-title="USA Channels",Alhurra Iraq
+https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_HLS/master.m3u8
+#EXTINF:-1 group-title="USA Channels",Alkarma TV Australia
+https://5a8308add0b31.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",Alkarma TV Australia
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",Alkarma TV Family
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaNA2.smil/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",Alkarma TV North America & Canada
+https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmana1.smil/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",Alkarma TV Praise
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmapa.smil/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",Alkarma TV Talmaza
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame2.smil/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",Alkarma TV Youth & English
+https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmaus.smil/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",Alkerazatv
+https://hwlive.streamingmediahosting.com/14221-live/0_ahgiewbd/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",Almagd TV Middle East
+https://597f64b67707a.streamlock.net/almagd.tv/almagd.smil/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",Almagd TV North America
+https://5aafcc5de91f1.streamlock.net/almagd.tv/almagd.smil/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",Access Nashua
+https://livestream.telvue.com/nashuanh1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",AccessVision Channel 16
+https://livestream.telvue.com/accvision1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",AccessVision Channel 17
+https://livestream.telvue.com/accvision2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",AfroLandTV
+https://alt-al.otteravision.com/alt/al/al.m3u8
+#EXTINF:-1 group-title="USA Channels",Aghapy Kids
+https://5b622f07944df.streamlock.net/aghapykids.tv/aghapykids2/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",Akaku 53
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch1/video.m3u8
+#EXTINF:-1 group-title="USA Channels",Akaku 54
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch2/video.m3u8
+#EXTINF:-1 group-title="USA Channels",Akaku 55
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch3/video.m3u8
+#EXTINF:-1 group-title="USA Channels",AKC TV Meet The Breeds
+https://install.akctvcontrol.com/speed/broadcast/139/desktop-playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",AKC TV Puppies 24/7
+https://install.akctvcontrol.com/speed/broadcast/140/desktop-playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",30A Luxe Life Discovered
+https://30a-tv.com/feeds/vidaa/luxelife.m3u8
+#EXTINF:-1 group-title="USA Channels",30A Music Channel
+https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8
+#EXTINF:-1 group-title="USA Channels",30A Television Channel
+https://30a-tv.com/feeds/masters/30atv.m3u8
+#EXTINF:-1 group-title="USA Channels",30A The Beach Show
+https://30a-tv.com/beachy.m3u8
+#EXTINF:-1 group-title="USA Channels",30A TV Classic Movies
+https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
+#EXTINF:-1 group-title="USA Channels",30A We Love Cars
+https://30a-tv.com/feeds/vidaa/cars.m3u8
+#EXTINF:-1 group-title="USA Channels",48 Hours
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6176f39e709f160007ec61c3/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 group-title="USA Channels",ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 group-title="USA Channels",ABN Africa
+https://mediaserver.abnvideos.com/streams/abnafrica.m3u8
+#EXTINF:-1 group-title="USA Channels",ABN Bible Movies
+https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+#EXTINF:-1 group-title="USA Channels",ABN China
+https://mediaserver.abnvideos.com/streams/abnchina.m3u8
+#EXTINF:-1 group-title="USA Channels",ABN TV India
+https://mediaserver.abnvideos.com/streams/abntvindia.m3u8
+#EXTINF:-1 group-title="USA Channels",ABN Urdu
+https://mediaserver.abnvideos.com/streams/abnurdu.m3u8
+#EXTINF:-1 group-title="USA Channels",Access La Porte Country
+https://vbfast-c.viebit.com/810fe13b-a9ac-46b3-a523-5a7e90ddfd25/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",3ABN Proclaim! Network
+https://3abn-live.akamaized.net/hls/live/2010549/Proclaim/master.m3u8
+#EXTINF:-1 group-title="USA Channels",30A Answers That Count
+https://30a-tv.com/atc.m3u8
+#EXTINF:-1 group-title="USA Channels",30A Darcizzle Offshore
+https://30a-tv.com/darcizzle.m3u8
+#EXTINF:-1 group-title="USA Channels",30A Georgia Hollywood Review TV
+https://30a-tv.com/gh.m3u8
+#EXTINF:-1 group-title="USA Channels",30A Golf Kingdom
+https://30a-tv.com/feeds/vidaa/golf.m3u8
+#EXTINF:-1 group-title="USA Channels",30A Lionel Nation TV
+https://30a-tv.com/ln.m3u8
+#EXTINF:-1 group-title="USA Channels",30A Loomered TV
+https://30a-tv.com/loomer.m3u8
+#EXTINF:-1 group-title="USA Channels",Logos TV
+http://streamer1.streamhost.org/salive/logosH/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",Logos TV
+https://streamer1.streamhost.org/salive/logosH/master.m3u8
+#EXTINF:-1 group-title="USA Channels",CBSN Minnesota
+https://dai.google.com/linear/hls/event/zcWPVCfURNSPxeidcckQLA/master.m3u8?iu=/4128/CBS.MINN.OTT
+#EXTINF:-1 group-title="USA Channels",CBSN Philly
+https://dai.google.com/linear/hls/event/Xu-ITJ2GTNGaxGn893mmWg/master.m3u8?iu=/4128/CBS.PHILLY.OTT
+#EXTINF:-1 group-title="USA Channels",WCCA-TV (Worcester)
+http://worcester.vod.castus.tv/live/ch1.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="USA Channels",WCCA-TV (Worcester)
+https://worcester.vod.castus.tv/live/ch1.m3u8
+#EXTINF:-1 group-title="USA Channels",TBD
+http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
+#EXTINF:-1 group-title="USA Channels",TBD
+http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
+#EXTINF:-1 group-title="USA Channels",TBD
+https://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
+#EXTINF:-1 group-title="USA Channels",TBD
+https://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
+#EXTINF:-1 group-title="USA Channels",QVC 2
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8
+#EXTINF:-1 group-title="USA Channels",QVC 3
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8
+#EXTINF:-1 group-title="USA Channels",Orange TV
+http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",Newsmax TV
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 group-title="USA Channels",NewsNet
+https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",Newsy (Scripps News) 
+https://content.uplynk.com/channel/1f93c13275024afb9e0ead299624073d.m3u8
+#EXTINF:-1 group-title="USA Channels",Newsy (Scripps News) 
+https://content.uplynk.com/channel/33c48f602cfd4474b957eb4ad999caf8.m3u8
+#EXTINF:-1 group-title="USA Channels",NRBTV
+http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",NBC 15 Madison WI (WMTVNBC)
+http://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkxMDUsImlzcyI6IldMUyIsIm1kNSI6ImJhZTU4Y2ZlZWM2NmU1MjZkNmVjZmE1YmUzNTQxMzQ4IiwibWlkIjoiODk5MDg4In0.vBWkHmqS3z3dpq8UWfbk4wFd-vQlj6B0up-rpt7X_7Q
+#EXTINF:-1 group-title="USA Channels",NBC 15 Madison WI (WMTVNBC)
+https://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkxMDUsImlzcyI6IldMUyIsIm1kNSI6ImJhZTU4Y2ZlZWM2NmU1MjZkNmVjZmE1YmUzNTQxMzQ4IiwibWlkIjoiODk5MDg4In0.vBWkHmqS3z3dpq8UWfbk4wFd-vQlj6B0up-rpt7X_7Q
+#EXTINF:-1 group-title="USA Channels",NBC 26 (WGBA)
+https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
+#EXTINF:-1 group-title="USA Channels",LifevisionTV
+https://tgn.bozztv.com/lifevision/lifevision/index.m3u8
+#EXTINF:-1 group-title="USA Channels",KOMO News (KOMO-TV)
+https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
+#EXTINF:-1 group-title="USA Channels",Key TV
+http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
+#EXTINF:-1 group-title="USA Channels",Key TV
+http://media4.tripsmarter.com:1935/LiveTV/KTVHD/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",HSN
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
+#EXTINF:-1 group-title="USA Channels",Free Speech TV
+https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/index.m3u8
+#EXTINF:-1 group-title="USA Channels",Gospel Truth TV
+https://na.linear.zype.com/bf94f9f4-383c-40e0-9d49-279a4f33ab8d/f29b8836-d990-4c8d-b421-192a8f43edc4-zype/manifest.m3u8
+#EXTINF:-1 group-title="USA Channels",FOX 28 Savannah GA (WTGS)
+http://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
+#EXTINF:-1 group-title="USA Channels",FOX 28 Savannah GA (WTGS)
+https://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
+#EXTINF:-1 group-title="USA Channels",Dr. Gene Scott
+https://wescottcc.piksel.tech/hls/live/2041478/adp/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",Dr. Gene Scott
+https://wescottcc.piksel.tech/Manifest/UTB-NetworkStream.m3u8
+#EXTINF:-1 group-title="USA Channels",DC Council Channel
+http://video.oct.dc.gov/out/u/15_12.m3u8
+#EXTINF:-1 group-title="USA Channels",District of Columbia Network
+http://video.oct.dc.gov/out/u/DCN.m3u8
+#EXTINF:-1 group-title="USA Channels",CT-N Court Feed
+http://video.ct-n.com/live/ctnSupreme/chunklist_w538335829_DVR.m3u8
+#EXTINF:-1 group-title="USA Channels",CT-N Court Feed
+http://video.ct-n.com/live/ctnSupreme/chunklist_DVR.m3u8
+#EXTINF:-1 group-title="USA Channels",CT-N Court Feed
+http://video.ct-n.com/live/ctnSupreme/playlist_DVR.m3u8
+#EXTINF:-1 group-title="USA Channels",CT-N Instant
+http://video.ct-n.com/live/ctnspare/chunklist_w252238746_DVR.m3u8
+#EXTINF:-1 group-title="USA Channels",CT-N Live Stream 2
+http://video.ct-n.com/live/web2stream/chunklist_w1202315245_DVR.m3u8
+#EXTINF:-1 group-title="USA Channels",CT-N Live Stream 2
+http://video.ct-n.com/live/web2stream/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",CTN
+http://rtmp.ottdemo.rrsat.com/ctntv/ctntvmulti.smil/chunklist.m3u8
+#EXTINF:-1 group-title="USA Channels",CTN
+https://rrsatrtmp.tulix.tv/ctntv/ctntvmulti.smil/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",CTNi
+http://184.164.158.202:1936/48/smil:48.smil/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",Christian Youth Channel
+http://media.smc-host.com:1935/cycnow.com/cyc2/chunklist_w884806316.m3u8
+#EXTINF:-1 group-title="USA Channels",Christian Youth Channel
+http://media.smc-host.com:1935/cycnow.com/cyc2/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",Christian Youth Channel
+http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",byu TV
+https://content.uplynk.com/channel/2f29cb20fcb74f68a85c38b99ca384bc.m3u8
+#EXTINF:-1 group-title="USA Channels",Bloomberg TV EMEA Live Event
+https://bloomberg.com/media-manifest/streams/eu-event.m3u8
+#EXTINF:-1 group-title="USA Channels",Black Cinema
+https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1 group-title="USA Channels",Bloomberg TV Asia
+https://bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:-1 group-title="USA Channels",Bloomberg TV Asia Live Event
+https://bloomberg.com/media-manifest/streams/asia-event.m3u8
+#EXTINF:-1 group-title="USA Channels",AMG TV
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",AKC TV
+https://install.akctvcontrol.com/speed/broadcast/138/desktop-playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",AKC TV
+https://broadcast.blivenyc.com/speed/broadcast/22/desktop-playlist.m3u8
+#EXTINF:-1 group-title="USA Channels",3News Now (KMTV-TV)
+http://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
+#EXTINF:-1 group-title="USA Channels",3News Now (KMTV-TV)
+https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
+#EXTINF:-1 group-title="USA Channels",23 ABC (KERO)
+https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
+#EXTINF:-1 group-title="USA Channels",30A Investment Pitch
+https://30a-tv.com/feeds/xodglobal/30atv.m3u8
