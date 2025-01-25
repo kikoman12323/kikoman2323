@@ -191,6 +191,11 @@ http://115.146.176.131:80/TimRizal/TimRizal/66.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="FREE IPTV", Adult Swim
 http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 
+#EXTINF:-1 group-title="USA Channels",Toonami Aftermath East
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8
+
+#EXTINF:-1 group-title="USA Channels",Toonami Aftermath Movies
+http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/l7p2MpK.png" group-title="Local", Cartoon Network HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
