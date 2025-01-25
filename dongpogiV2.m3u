@@ -25,11 +25,16 @@ http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=21109&ex
 #EXTINF:-1 tvg-id="" tvg-logo="" ,TLC
 https://cdn09jtedge.indihometv.com/joss/133/tlc/index.m3u8
 
+#EXTINF:-1,US | National Geographic
+http://fl2.moveonjoy.com/National_Geographic/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/discov.png",DISCOVERY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9ac48f5131641a789328257e778ad3a:b6e67c37239901980c6e37e0607ceee6
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_discovery.mpd
+
+#EXTINF:-1 tvg-id="animalplanet.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg",Animal Planet
+http://fl2.moveonjoy.com/Animal_Planet/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title=" : FREE LOCAL PLAYLIST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png",ANIMAL PLANET
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -203,7 +208,7 @@ http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
 http://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_primary.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/Cartoon_Network_logo_logotype.png" group-title="",Cartoon Network (USA)
-https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live_720p2000000kbps/index.m3u8
+http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://danytips.com/wp-content/uploads/2020/11/Nickelodeon_Logo_2004.png" group-title="FREE IPTV", Nickelodeon (USA)
 http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
