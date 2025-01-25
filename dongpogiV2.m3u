@@ -325,12 +325,8 @@ https://ln.run/1fZGp
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Eo0f51vl.png" group-title="FREE IPTV", GMA PINOY TV
 http://fortv.cc:8080/live/kberg6767%40gmail.com/kberg6767%402024/101826.ts
 
-
-
-#EXTINF:-1 tvg-id="KAPAMILYA.CHANNEL.ph" tvg-logo="https://i.imgur.com/fRETRXx.png" group-title="Local",Kapamilya Channel
-https://ln.run/c03PQ
-
-
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7d/Kapamilya_Online_Live_Logo_2020.svg/2560px-Kapamilya_Online_Live_Logo_2020.svg.png" group-title="Local",Kapamilya Channel HD
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TV5_%28Philippines%29_logo.svg/512px-TV5_%28Philippines%29_logo.svg.png" group-title="Local", TV5 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
