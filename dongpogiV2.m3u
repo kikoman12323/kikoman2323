@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="" group-title="",KARAOKE
+http://115.146.176.131:80/TimRizal/TimRizal/70.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-name="Sky Cinema Animation" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/Sky_Cinema_Animation_Oct_2017.png" group-title="KIDS NETWORKS",Sky Cinema Animation
 http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=339670&extension=m3u8
