@@ -256,6 +256,9 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AnimeTv" tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png" group-title="KIDS NETWORKS",AnimeTv
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
+#EXTINF:-1,US | MeTV Toons
+http://208.89.99.124:5004/auto/v9.4
+
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Bloody Disgusting TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-bloodydisgus-cineverse/playlist.m3u8?checkedby:iptvcat.com
 
