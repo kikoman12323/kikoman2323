@@ -177,10 +177,25 @@ https://mytime-tcl.amagi.tv/playlist.m3u8
 http://115.146.176.131:80/play/5i_LtAbpY7PhHy5sbZlWo1zYTxG-py1tWe97L_Ni7xk/ts
 
 
+
+
+
+
+
+
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="celestialmovie" tvg-name="CELESTIAL MOVIE PINOY" tvg-logo="https://i.imgur.com/GZ8WmYE.png" group-title="🇵🇭 CONV-CIG MOVIES",CELESTIAL MOVIE PINOY
+#EXTINF:-1 tvg-id="celestialmovie" tvg-name="CELESTIAL MOVIE PINOY" tvg-logo="https://cmpinoy.com.ph/storage/images/c4ca4238a0b923820dcc509a6f75849b/c/logo-og_image.png",CELESTIAL MOVIE PINOY
 http://143.44.136.113:6910/001/2/ch00000090990000001077/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+
+
+
+
+
+
+
 
 #EXTINF:0 tvg-country="PH" tvg-logo="https://th.bing.com/th/id/OIP.LwRxviPB5gXQ_20tvl9nVgHaEd?rs=1&pid=ImgDetMain" group-title="Movies;Undefined",Cinemo!
 https://d1bail49udbz1k.cloudfront.net/out/v1/78e282e04f0944f3ad0aa1db7a1be645/index_3.m3u8
