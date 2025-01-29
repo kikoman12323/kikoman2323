@@ -137,12 +137,7 @@ https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_sari_sari_sd.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/e3/TvN_Movies_Pinoy_Logo_2023.png" group-title="Local", TVN Movies Pinoy
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2e53f8d8a5e94bca8f9a1e16ce67df33:3471b2464b5c7b033a03bb8307d9fa35
-https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_tvnmovie.mpd
-
+https://dice-live-ap.akamaized.net/hls/live/2001939/274551-283041/exchange274551tospn_274551_3000/chunklist.m3u8?hdntl=exp=1738209664~acl=%2f*~id=a7ef2d92-4b92-4eac-8345-9402d11c5e95~data=hdntl,dWlkPUNzVW1LWnw0YzAxMGM3Yy00YTY5LTQ0ODgtYWEzMC0xY2ZhY2YwNDdhYzImaXA9MTU4LjYyLjY5LjE2MSZleHA9MTczODIwOTY5MyZlaWQ9Mjc0NTUxJmNpZD1kY2UudGFwZ28mb2lkPTMyNSZ0eXBlPUxJVkU~hmac=b6a372998790dcfd36c7419a69438dc7218f3ea6fabe1da006d206fda0f639e8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/2f/Viva_Cinema_%282021-.n.v.%29.png/revision/latest?cb=20210804092616" group-title="Local", Viva Cinema
 #KODIPROP:inputstreamaddon=inputstream.adaptive
