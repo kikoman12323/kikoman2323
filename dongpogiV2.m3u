@@ -3,6 +3,22 @@
 #EXTINF:-1 tvg-logo="" group-title="",KARAOKE
 http://115.146.176.131:80/TimRizal/TimRizal/70.ts
 
+#EXTM3U 
+#EXTINF:-1 tvg-id="jungopinoytv" tvg-name="JUNGO TV PINOY" tvg-logo="https://i.imgur.com/vaVmDOR.png" group-title="🇵🇭 JUNGO TV",JUNGO TV PINOY
+https://jungotvstream-chanall.akamaized.net/jungotv/jungopinoytv/stream.m3u8
+
+#EXTINF:-1 tvg-id="hollypop" tvg-name="HALLYPOP" tvg-logo="https://i.imgur.com/vaVmDOR.png" group-title="🇵🇭 JUNGO TV",HALLYPOP
+https://jungotvstream-chanall.akamaized.net/jungotv/hallypop/stream.m3u8
+
+#EXTINF:-1 tvg-id="screamflix" tvg-name="SCREAMFLIX" tvg-logo="https://i.imgur.com/vaVmDOR.png" group-title="🇵🇭 JUNGO TV",SCREAMFLIX
+https://jungotvstream-chanall.akamaized.net/jungotv/screamflix/stream.m3u8
+
+#EXTINF:-1 tvg-id="combatgo" tvg-name="COMBAT GO" tvg-logo="https://i.imgur.com/vaVmDOR.png" group-title="🇵🇭 JUNGO TV",COMBAT GO
+https://jungotvstream-chanall.akamaized.net/jungotv/combatgo/stream.m3u8
+
+#EXTINF:-1 tvg-id="frontrow" tvg-name="FRONTROW" tvg-logo="https://i.imgur.com/vaVmDOR.png" group-title="🇵🇭 JUNGO TV",FRONTROW
+https://jungotvstream-chanall.akamaized.net/jungotv/frontrow/stream.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-name="Sky Cinema Animation" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/Sky_Cinema_Animation_Oct_2017.png" group-title="KIDS NETWORKS",Sky Cinema Animation
 http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=339670&extension=m3u8
 
@@ -205,8 +221,11 @@ http://143.44.136.113:6910/001/2/ch00000090990000001077/manifest.mpd?virtualDoma
 #EXTINF:0 tvg-country="PH" tvg-logo="https://th.bing.com/th/id/OIP.LwRxviPB5gXQ_20tvl9nVgHaEd?rs=1&pid=ImgDetMain" group-title="Movies;Undefined",Cinemo!
 https://d1bail49udbz1k.cloudfront.net/out/v1/78e282e04f0944f3ad0aa1db7a1be645/index_3.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Cinemaworld" tvg-logo="https://htvc.vn/uploads/editor/images/Cinemaworld.png" group-title="Local",CinemaWorld
-https://bit.ly/4hiUdRY
+
+#EXTINF:-1 tvg-id="cinemaworldconv" tvg-name="CINEMAWORLD" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="",CINEMAWORLD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.113:6910/001/2/ch00000090990000001158/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Pinoy_Box_Office_logo.svg/1200px-Pinoy_Box_Office_logo.svg.png" group-title="Local", PBO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -214,6 +233,11 @@ https://bit.ly/4hiUdRY
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dcbdaaa6662d4188bdf97f9f0ca5e830:31e752b441bd2972f2b98a4b1bc1c7a1
 https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/pbo_sd.mpd
+
+#EXTINF:-1 tvg-id="cinemaonetfc" tvg-name="CINEMAONE TFC" tvg-logo="https://i.imgur.com/54f9r5A.png" group-title="",CINEMAONE TFC
+KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=58d0e56991194043b8fb82feb4db7276:d68f41b59649676788889e19fb10d22c
+https://d9rpesrrg1bdi.cloudfront.net/out/v1/93b9db7b231d45f28f64f29b86dc6c65/index.mpd
 
 #EXTINF:0 tvg-country="PH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/512px-Cinema_One_2013_logo.svg.png" group-title="Movies",Cinema One
 https://ln.run/Zc85c
