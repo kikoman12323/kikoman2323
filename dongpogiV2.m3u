@@ -6,8 +6,8 @@ http://115.146.176.131:80/TimRizal/TimRizal/70.ts
 
 
 #EXTINF:-1 tvg-id="DREAMWORKS.ph" group-title="GABRIEL : FREE LOCAL PLAYLIST" ch-number="612" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Dreamworks_190x80_TV-Guide.png",Dreamworks
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b5bfe3554df2abcd37afe130a7e1d310:dccbdf043ac43d18be0b3eb43a582876
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_dreamworks_hd1_video_1_5_42903477.mp4?m=1733530708
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_dreamworks_hd1_audio_1_6_42903478.mp4?m=1733530708
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_dreamworks_hd1.mpd
 
 
