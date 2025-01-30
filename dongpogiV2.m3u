@@ -193,10 +193,9 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_sari_sari_sd.mpd
 
 
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2e53f8d8a5e94bca8f9a1e16ce67df33:3471b2464b5c7b033a03bb8307d9fa35
-#EXTINF:-1 tvg-id="tvnmoviespinoy" tvg-name="TVN MOVIES PINOY" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="🇵🇭 CONV-CIG MOVIES",TVN MOVIES PINOY
-https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_tvnmovie.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vGEL2Nel.png" group-title="General", TVN MOVIES PINOY
+https://dice-live-ap.akamaized.net/hls/live/2001939/274551-283041/exchange274551tospn_274551_4500/chunklist.m3u8?hdntl=exp=1738303810~acl=/*~id=f4d22e8e-95c7-4ce6-9479-409d8e1c48fb~data=hdntl,dWlkPUNzVW1LWnw0YzAxMGM3Yy00YTY5LTQ0ODgtYWEzMC0xY2ZhY2YwNDdhYzImaXA9MTU4LjYyLjY5LjE2MSZleHA9MTczODMwMzgzOCZlaWQ9Mjc0NTUxJmNpZD1kY2UudGFwZ28mb2lkPTMyNSZ0eXBlPUxJVkU~hmac=b0a543a685609ade598474388c129c90648b506c7f3a1ea82ca8ac98b573eed2&hdnea=st=1738217398~exp=1738217438~acl=/hls/live/2001939/274551-283041/*~id=f4d22e8e-95c7-4ce6-9479-409d8e1c48fb~data=dWlkPUNzVW1LWnw0YzAxMGM3Yy00YTY5LTQ0ODgtYWEzMC0xY2ZhY2YwNDdhYzImaXA9MTU4LjYyLjY5LjE2MSZleHA9MTczODMwMzgzOCZlaWQ9Mjc0NTUxJmNpZD1kY2UudGFwZ28mb2lkPTMyNSZ0eXBlPUxJVkU~hmac=084e1e216c5d02eb7806631b95ec78108a7bdf1960352be065d5d5bb58ffe689&opId=325&cc=PH&ua=TW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDEyOyBNMjEwMkoyMFNHKSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTMxLjAuNjc3OC4yNjAgTW9iaWxlIFNhZmFyaS81MzcuMzY=&sd=PH-NORTHERN+MINDANAO
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e1bde543e8a140b38d3f84ace746553e:b712c4ec307300043333a6899a402c10
