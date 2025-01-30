@@ -127,7 +127,7 @@ https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/hits_hd1.mpd
 https://cdn4.skygo.mn/live/disk1/Warner/DASH-FTA/Warner.mpd
 
 #EXTINF:-1 group-title="General",The Korean Movie Channel
-https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/37d2aea6-31a1-4f33-96fe-09eb7e1b7f53/0.m3u8
+https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/ec/Sari-Sari_Channel_2D_Logo_2016.png/revision/latest?cb=20190317023940" group-title="Local", SARI-SARI
 #KODIPROP:inputstreamaddon=inputstream.adaptive
