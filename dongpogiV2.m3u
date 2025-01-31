@@ -130,8 +130,6 @@ http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
 
 
 
-#EXTINF:-1 group-title="General", DreamWorks 
-https://dice-live-ap.akamaized.net/hls/live/2001925/220979-277420/exchange220979lyyeg_220979_4500/chunklist.m3u8?hdntl=exp=1738303635~acl=/*~id=6d12a7bc-f749-4300-84f9-971cbff20ed5~data=hdntl,dWlkPUNzVW1LWnw0YzAxMGM3Yy00YTY5LTQ0ODgtYWEzMC0xY2ZhY2YwNDdhYzImaXA9MTU4LjYyLjY5LjE2MSZleHA9MTczODMwMzY2MyZlaWQ9MjIwOTc5JmNpZD1kY2UudGFwZ28mb2lkPTMyNSZ0eXBlPUxJVkU~hmac=e4897472798dbbb68d00d70b810fe4e7b74cb159ca2e4d1e7b40fc3756af8b13&hdnea=st=1738217223~exp=1738217263~acl=/hls/live/2001925/220979-277420/*~id=6d12a7bc-f749-4300-84f9-971cbff20ed5~data=dWlkPUNzVW1LWnw0YzAxMGM3Yy00YTY5LTQ0ODgtYWEzMC0xY2ZhY2YwNDdhYzImaXA9MTU4LjYyLjY5LjE2MSZleHA9MTczODMwMzY2MyZlaWQ9MjIwOTc5JmNpZD1kY2UudGFwZ28mb2lkPTMyNSZ0eXBlPUxJVkU~hmac=beaf19117d3c1c9ee54c389b7a0bb1afc644d2a232824866e4942cba30be45b7&opId=325&cc=PH&ua=TW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDEyOyBNMjEwMkoyMFNHKSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTMxLjAuNjc3OC4yNjAgTW9iaWxlIFNhZmFyaS81MzcuMzY=&sd=PH-NORTHERN+MINDANAO
 
 
 
@@ -194,8 +192,10 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_sari_sari_sd.mpd
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="General", TVN MOVIES PINOY
-https://dice-live-ap.akamaized.net/hls/live/2001939/274551-283041/exchange274551tospn_274551_4500/chunklist.m3u8?hdntl=exp=1738303810~acl=/*~id=f4d22e8e-95c7-4ce6-9479-409d8e1c48fb~data=hdntl,dWlkPUNzVW1LWnw0YzAxMGM3Yy00YTY5LTQ0ODgtYWEzMC0xY2ZhY2YwNDdhYzImaXA9MTU4LjYyLjY5LjE2MSZleHA9MTczODMwMzgzOCZlaWQ9Mjc0NTUxJmNpZD1kY2UudGFwZ28mb2lkPTMyNSZ0eXBlPUxJVkU~hmac=b0a543a685609ade598474388c129c90648b506c7f3a1ea82ca8ac98b573eed2&hdnea=st=1738217398~exp=1738217438~acl=/hls/live/2001939/274551-283041/*~id=f4d22e8e-95c7-4ce6-9479-409d8e1c48fb~data=dWlkPUNzVW1LWnw0YzAxMGM3Yy00YTY5LTQ0ODgtYWEzMC0xY2ZhY2YwNDdhYzImaXA9MTU4LjYyLjY5LjE2MSZleHA9MTczODMwMzgzOCZlaWQ9Mjc0NTUxJmNpZD1kY2UudGFwZ28mb2lkPTMyNSZ0eXBlPUxJVkU~hmac=084e1e216c5d02eb7806631b95ec78108a7bdf1960352be065d5d5bb58ffe689&opId=325&cc=PH&ua=TW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDEyOyBNMjEwMkoyMFNHKSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTMxLjAuNjc3OC4yNjAgTW9iaWxlIFNhZmFyaS81MzcuMzY=&sd=PH-NORTHERN+MINDANAO
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2e53f8d8a5e94bca8f9a1e16ce67df33:3471b2464b5c7b033a03bb8307d9fa35
+#EXTINF:-1 tvg-id="tvnmoviespinoy" tvg-name="TVN MOVIES PINOY" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="🇵🇭 CONV-CIG MOVIES",TVN MOVIES PINOY
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_tvnmovie.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e1bde543e8a140b38d3f84ace746553e:b712c4ec307300043333a6899a402c10
@@ -391,10 +391,15 @@ http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
 
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://danytips.com/wp-content/uploads/2020/11/Nickelodeon_Logo_2004.png" group-title="", Nickelodeon
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpegdash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ce58f37576b416381b6514a809bfd8b:f0fbb758cdeeaddfa3eae538856b4d72
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_nickelodeon.mpd
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://danytips.com/wp-content/uploads/2020/11/Nickelodeon_Logo_2004.png" group-title="", NICKELODEON
-https://dice-live-ap.akamaized.net/hls/live/2102541/224407-277139/exchange224407egbel_224407_4500/chunklist.m3u8?hdntl=exp=1738303722~acl=/*~id=d5d0501b-7f9f-481d-b08c-cd5a468b9c1e~data=hdntl,dWlkPUNzVW1LWnw0YzAxMGM3Yy00YTY5LTQ0ODgtYWEzMC0xY2ZhY2YwNDdhYzImaXA9MTU4LjYyLjY5LjE2MSZleHA9MTczODMwMzc0OSZlaWQ9MjI0NDA3JmNpZD1kY2UudGFwZ28mb2lkPTMyNSZ0eXBlPUxJVkU~hmac=1af8eaaec3d675ad1857b28d4b47173a86dce7d631bac453e0b0aaf32728129e&hdnea=st=1738217309~exp=1738217349~acl=/hls/live/2102541/224407-277139/*~id=d5d0501b-7f9f-481d-b08c-cd5a468b9c1e~data=dWlkPUNzVW1LWnw0YzAxMGM3Yy00YTY5LTQ0ODgtYWEzMC0xY2ZhY2YwNDdhYzImaXA9MTU4LjYyLjY5LjE2MSZleHA9MTczODMwMzc0OSZlaWQ9MjI0NDA3JmNpZD1kY2UudGFwZ28mb2lkPTMyNSZ0eXBlPUxJVkU~hmac=e82a70460d3c44b1aad45d38cd737dd4c546afc46a3541c2d1d72f0e3fbe2b65&opId=325&cc=PH&ua=TW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDEyOyBNMjEwMkoyMFNHKSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTMxLjAuNjc3OC4yNjAgTW9iaWxlIFNhZmFyaS81MzcuMzY=&sd=PH-NORTHERN+MINDANAO
+
 
 
 
