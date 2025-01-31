@@ -9,6 +9,19 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 
 
 
+#EXTINF:-1 ,Sky Cinema Select HD
+http://109.61.81.45:43756/4805/tracks-v1a1/mono.m3u8?token=QUWJEnwmm2
+
+#EXTINF:-1 ,Sky Cinema Drama HD
+http://109.61.81.45:43756/4802/tracks-v1a1/mono.m3u8?token=QUWJEnwmm2
+
+#EXTINF:-1 ,Sky Cinema Action HD
+http://109.61.81.45:43756/4799/tracks-v1a1/mono.m3u8?token=QUWJEnwmm2
+
+
+
+
+
 
 
 
