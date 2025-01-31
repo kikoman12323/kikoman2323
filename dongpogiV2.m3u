@@ -347,9 +347,16 @@ https://d9rpesrrg1bdi.cloudfront.net/out/v1/93b9db7b231d45f28f64f29b86dc6c65/ind
 #EXTINF:-1 tvg-id="cinemaoneph" tvg-name="CINEMAONE PHIL." tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="🇵🇭 CONV-CIG MOVIES",CINEMAONE PHILIPPINES (CON)
 http://143.44.136.110:6910/001/2/ch00000090990000001283/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:0 tvg-country="PH" tvg-logo="https://i.imgur.com/pbHuUuV.png" group-title="Undefined",MYX Philippines
-http://115.146.176.131:80/TimRizal/TimRizal/66.m3u8 
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="myxph" tvg-name="MYX PHILIPPINES" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="🇵🇭 TFC CHANNELS",MYX PHILIPPINES (CON)
+http://143.44.136.111:6910/001/2/ch00000090990000001252/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f40a52a3ac9b4702bdd5b735d910fd2f:5ce1bc7f06b494c276252b4d13c90e51
+#EXTINF:-1 tvg-id="myxtfc" tvg-name="MYX TFC" tvg-logo="https://i.imgur.com/54f9r5A.png" group-title="🇵🇭 TFC CHANNELS",MYX (TFC)
+https://d24xfhmhdb6r0q.cloudfront.net/out/v1/e897a7b6414a46019818ee9f2c081c4f/index.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="FREE IPTV", Adult Swim
 http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 
