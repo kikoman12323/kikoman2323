@@ -71,26 +71,84 @@ https://jungotvstream-chanall.akamaized.net/jungotv/combatgo/stream.m3u8
 #EXTINF:-1 tvg-id="frontrow" tvg-name="FRONTROW" tvg-logo="https://i.imgur.com/vaVmDOR.png" group-title="🇵🇭 JUNGO TV",FRONTROW
 https://jungotvstream-chanall.akamaized.net/jungotv/frontrow/stream.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-name="Sky Cinema Animation" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/Sky_Cinema_Animation_Oct_2017.png" group-title="KIDS NETWORKS",Sky Cinema Animation
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=339670&extension=m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-name="Sky Cinema Action" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Sky_Cinema_Action_DE_Logo_2016.png" group-title="Movie Central",Sky Cinema Action
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=113865&extension=m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-name="Sky Cinema Comedy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Sky_Cinema_Comedy_-_Logo_2016.svg/2560px-Sky_Cinema_Comedy_-_Logo_2016.svg.png" group-title="Movie Central",Sky Cinema Comedy
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=339672&extension=m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-name="Sky Cinema Sci-Fi & Horror" tvg-logo="https://tvguidetonight.co.uk/wp-content/uploads/2020/06/sky-cinema-sci-fi-horror.png" group-title="Movie Central",Sky Cinema Sci-Fi & Horror
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=113867&extension=m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-name="Sky Cinema Thriller" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Sky_Cinema_Thriller_DE_Logo_2020.svg/2560px-Sky_Cinema_Thriller_DE_Logo_2020.svg.png" group-title="Movie Central",Sky Cinema Thriller
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=339674&extension=m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FREE IPTV", Sky cinema atlantic
+https://ie.sonyrepairs.com/satlantic/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FREE IPTV", Sky cinema animation
+https://ie.sonyrepairs.com/skcineanimation/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FREE IPTV", Sky cinema comedy
+https://ie.sonyrepairs.com/skcinecomedy/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FREE IPTV", Sky cinema family
+https://ie.sonyrepairs.com/skcinefamily/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FREE IPTV", Sky cinema hits
+https://ie.sonyrepairs.com/skcinehits/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FREE IPTV", Sky cinema select
+https://ie.sonyrepairs.com/skcineselect/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FREE IPTV", Sky cinema thriller
+https://ie.sonyrepairs.com/skcinethriller/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FREE IPTV", Sky cinema Comedy
+https://ie.sonyrepairs.com/skcomedy/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FREE IPTV", Sky cinema crime
+https://ie.sonyrepairs.com/skcrime/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FREE IPTV", Sky cinema max
+https://ie.sonyrepairs.com/skmax/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FREE IPTV", Sky cinema showcase
+https://ie.sonyrepairs.com/skshowcase/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FREE IPTV", Sky cinema action
+https://ie.sonyrepairs.com/skcineaction/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FREE IPTV", Sky cinema premiere
+https://ie.sonyrepairs.com/skcinepremiere/index.m3u8
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="Dummy" tvg-name="Star Movies HD" tvg-logo="https://i.imgur.com/n1QoXez.png" group-title="Movie Central",Star Movies HD
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=472273&extension=m3u8
+http://opplextv.cyou:8080/live/52882216/581881255/348059.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-name="Star Movies Select HD" tvg-logo="https://i.imgur.com/7OjPgvd.png" group-title="Movie Central",Star Movies Select HD
 http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=21109&extension=m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="" ,TLC
 https://cdn09jtedge.indihometv.com/joss/133/tlc/index.m3u8
