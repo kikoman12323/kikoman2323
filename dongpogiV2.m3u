@@ -18,8 +18,8 @@ http://109.61.81.45:43756/4802/tracks-v1a1/mono.m3u8?token=QUWJEnwmm2
 #EXTINF:-1 ,Sky Cinema Action HD
 http://109.61.81.45:43756/4799/tracks-v1a1/mono.m3u8?token=QUWJEnwmm2
 
-
-
+#EXTINF:-1 ,HI-YAH!
+https://96d8bc0d0494455daeb3395f87b...IYAH-ROKU/mt/roku/59/hls/master/playlist.m3u8
 
 
 
@@ -55,7 +55,7 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapmovies_hd1.mpd
 
 
 
-#EXTM3U 
+ 
 #EXTINF:-1 tvg-id="jungopinoytv" tvg-name="JUNGO TV PINOY" tvg-logo="https://i.imgur.com/vaVmDOR.png" group-title="🇵🇭 JUNGO TV",JUNGO TV PINOY
 https://jungotvstream-chanall.akamaized.net/jungotv/jungopinoytv/stream.m3u8
 
