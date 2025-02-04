@@ -5,6 +5,20 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 
 
 
+#EXTINF:-1 tvg-id="OnePiece.us" tvg-logo="https://th.bing.com/th/id/OIP.hH15CNYKFSX0AJ-nXwaZaAHaBe?w=302&h=69&c=7&r=0&o=5&pid=1.7" group-title="",Asian Crush
+https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/cb563d1b736c638c84ce3778d2f662ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5baa6852db80148b6f4adafb8c2360625f5c98435ee3b24aa1f9e2544cd06ea7ac194fc07a58e683179fc915e985d346cd41d270a242cfc6f88e8010e0e6ab4691df3033733a1255dbeb499bc051bfca8a603799625a297437c790e335caa1e43d277debf6cac505b5739ccb4d150346ece9b94f0160c74bd32adb6accf6f385ff082a18b7cd5a2e0aa1eba986fa0ffedc0cf48fe6c77a7095f75b2d09992d9015223694f2dc07c4ed21d6e773cbe4325d0fc99f13cfc6f29bb9e4c40abd35dacbf1af3840656a104dd30ef5d43e8d69955380fa3e0d100d48a4915084a1dc5d3b6d06c6a356c61c16bc94dad188406b8430550aa853d85d047ec57b392fb263aacc4e19e34c3d8c3b39f44f26c013acca4bdb939bb45675e5a484289948e0ba0ddef378d94e344b0dbef76c12057b74deea691a233ba461e1c0c1f578190a8fa695a7d832d8668fe2d1d9ed0424ec0445adca47dd69944c549ff906/189/848x480_1686360/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 ,Star Channel
 https://streamer1.nexgen.bz/STAR/tracks-v1a1/mono.m3u8
@@ -427,13 +441,13 @@ https://d9rpesrrg1bdi.cloudfront.net/out/v1/93b9db7b231d45f28f64f29b86dc6c65/ind
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="cinemaoneph" tvg-name="CINEMAONE PHIL." tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="🇵🇭 CONV-CIG MOVIES",CINEMAONE PHILIPPINES (CON)
+#EXTINF:-1 tvg-id="cinemaoneph" tvg-name="CINEMAONE PHIL." tvg-logo="https://i0.wp.com/www.starmometer.com/wp-content/uploads/2015/04/Cinema-One.png",CINEMAONE PHILIPPINES
 http://143.44.136.110:6910/001/2/ch00000090990000001283/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="myxph" tvg-name="MYX PHILIPPINES" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="🇵🇭 TFC CHANNELS",MYX PHILIPPINES (CON)
+#EXTINF:-1 tvg-id="myxph" tvg-name="MYX PHILIPPINES" tvg-logo="https://images.seeklogo.com/logo-png/50/1/myx-logo-png_seeklogo-500647.png?v=1957688495402618896",MYX PHILIPPINES
 http://143.44.136.111:6910/001/2/ch00000090990000001252/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
