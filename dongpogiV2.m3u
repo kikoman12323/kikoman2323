@@ -248,14 +248,11 @@ https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_dreamworks_hd1.mpd
 #KODIPROP:inputstream.adaptive.license_key=fd5d928f5d974ca4983f6e9295dfe410:3aaa001ddc142fedbb9d5557be43792f
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_axn_sd.mpd
 
+#EXTINF:-1 tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55ACF06-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=203" group-title="CIGNAL PLAYLIST", Hits Movies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f56b57b32d7e4b2cb21748c0b56761a7:3df06a89aa01b32655a77d93e09e266f
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_hitsmovies.mpd
 
-#EXTINF:-1 tvg-id="HITSMovies" ch-number="401" group-title="Local" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png",HITS Movies
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OPv7OlbkD/ksnfisvLqe9g", "kid":"/x/r1wGNDdcRYB55Xg1iEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2305/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YeqyD9W.png" group-title="Local",HITS HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
