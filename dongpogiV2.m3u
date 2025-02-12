@@ -9,7 +9,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 
 
 
-#EXTINF:-1 tvg-id="OnePiece.us" tvg-logo="https://th.bing.com/th/id/OIP.hH15CNYKFSX0AJ-nXwaZaAHaBe?w=302&h=69&c=7&r=0&o=5&pid=1.7" group-title="",Asian Crush
+#EXTINF:-1 tvg-id="" tvg-logo="https://th.bing.com/th/id/OIP.hH15CNYKFSX0AJ-nXwaZaAHaBe?w=302&h=69&c=7&r=0&o=5&pid=1.7" group-title="",Asian Crush
 https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/cb563d1b736c638c84ce3778d2f662ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5baa6852db80148b6f4adafb8c2360625f5c98435ee3b24aa1f9e2544cd06ea7ac194fc07a58e683179fc915e985d346cd41d270a242cfc6f88e8010e0e6ab4691df3033733a1255dbeb499bc051bfca8a603799625a297437c790e335caa1e43d277debf6cac505b5739ccb4d150346ece9b94f0160c74bd32adb6accf6f385ff082a18b7cd5a2e0aa1eba986fa0ffedc0cf48fe6c77a7095f75b2d09992d9015223694f2dc07c4ed21d6e773cbe4325d0fc99f13cfc6f29bb9e4c40abd35dacbf1af3840656a104dd30ef5d43e8d69955380fa3e0d100d48a4915084a1dc5d3b6d06c6a356c61c16bc94dad188406b8430550aa853d85d047ec57b392fb263aacc4e19e34c3d8c3b39f44f26c013acca4bdb939bb45675e5a484289948e0ba0ddef378d94e344b0dbef76c12057b74deea691a233ba461e1c0c1f578190a8fa695a7d832d8668fe2d1d9ed0424ec0445adca47dd69944c549ff906/189/848x480_1686360/index.m3u8
 
 
@@ -181,6 +181,11 @@ http://fl2.moveonjoy.com/National_Geographic/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9ac48f5131641a789328257e778ad3a:b6e67c37239901980c6e37e0607ceee6
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_discovery.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"w6WOyGfMJYKeH76JOEQlUw", "kid":"P/AvzYDC4yMMUq5w/pA0EA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="553.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Discovery_Asia_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="Astro",Discovery Asia 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_primary.mpd
 
 #EXTINF:-1 tvg-id="animalplanet.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg",Animal Planet
 http://fl2.moveonjoy.com/Animal_Planet/index.m3u8
