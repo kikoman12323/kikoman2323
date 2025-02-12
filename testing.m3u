@@ -4,6 +4,6 @@
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=_0x86e95d(0x24a)
+#KODIPROP:inputstream.adaptive.license_key=0x86e95d(0x24a)
 #EXTINF:-1 tvg-id="" tvg-logo="https://danytips.com/wp-content/uploads/2020/11/Nickelodeon_Logo_2004.png" group-title="", Nickelodeon
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default_primary.mpd
