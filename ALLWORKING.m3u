@@ -54,8 +54,28 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapactionflix_hd1.mpd
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapmovies_hd1.mpd
 
 
-
-
+#EXTINF:-1 tvg-id="skyaction.uk" tvg-name="UK: Sky Cinema Action & Adventure" tvg-logo="https://dm8eklel4s62k.cloudfront.net/images/sky/small/sky_cinema_on_dark.png" group-title="UK MOVIES", Sky Cinema Action & Adventure
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/508107
+#EXTINF:-1 tvg-id="skyanimation.uk" tvg-name="UK: Sky Cinema Animation" tvg-logo="https://www.sky.com/assets2/sky-cinema-logo-june2020.png" group-title="UK MOVIES", Sky Cinema Animation
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/508113
+#EXTINF:-1 tvg-id="skycinemacomedy.uk" tvg-name="UK: Sky Cinema Comedy" tvg-logo="https://dm8eklel4s62k.cloudfront.net/images/sky/small/sky_cinema_on_dark.png" group-title="UK MOVIES", Sky Cinema Comedy
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/508109
+#EXTINF:-1 tvg-id="SkyCinemaThriller.uk" tvg-name="UK: Sky Cinema Crime & Thriller" tvg-logo="https://dm8eklel4s62k.cloudfront.net/images/sky/small/sky_cinema_on_dark.png" group-title="UK MOVIES", Sky Cinema Crime & Thriller
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/508111
+#EXTINF:-1 tvg-id="skydrama.uk" tvg-name="UK: Sky Cinema Drama & Romance" tvg-logo="https://dm8eklel4s62k.cloudfront.net/images/sky/small/sky_cinema_on_dark.png" group-title="UK MOVIES", Sky Cinema Drama & Romance
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/508115
+#EXTINF:-1 tvg-id="skyfamily.uk" tvg-name="UK: Sky Cinema Family" tvg-logo="https://dm8eklel4s62k.cloudfront.net/images/sky/small/sky_cinema_on_dark.png" group-title="UK MOVIES", Sky Cinema Family
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/508117
+#EXTINF:-1 tvg-id="skygreats.uk" tvg-name="UK: Sky Cinema Greats" tvg-logo="https://dm8eklel4s62k.cloudfront.net/images/sky/small/sky_cinema_on_dark.png" group-title="UK MOVIES", Sky Cinema Greats
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/508119
+#EXTINF:-1 tvg-id="SkyCinemaHits.uk" tvg-name="UK: Sky Cinema Hits" tvg-logo="https://dm8eklel4s62k.cloudfront.net/images/sky/small/sky_cinema_on_dark.png" group-title="UK MOVIES", Sky Cinema Hits
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/508121
+#EXTINF:-1 tvg-id="skypremiere.uk" tvg-name="UK: Sky Cinema Premiere" tvg-logo="https://dm8eklel4s62k.cloudfront.net/images/sky/small/sky_cinema_on_dark.png" group-title="UK MOVIES", Sky Cinema Premiere
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/508123
+#EXTINF:-1 tvg-id="skyscifihorror.uk" tvg-name="UK: Sky Cinema Sci-Fi & Horror" tvg-logo="https://dm8eklel4s62k.cloudfront.net/images/sky/small/sky_cinema_on_dark.png" group-title="UK MOVIES", Sky Cinema Sci-Fi & Horror
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/508125
+#EXTINF:-1 tvg-id="skyselect.uk" tvg-name="UK: Sky Cinema Select" tvg-logo="https://dm8eklel4s62k.cloudfront.net/images/sky/small/sky_cinema_on_dark.png" group-title="UK MOVIES", Sky Cinema Select
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/508127
 
 
 
@@ -67,65 +87,6 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapmovies_hd1.mpd
 
 
  
-#EXTINF:-1 tvg-id="jungopinoytv" tvg-name="JUNGO TV PINOY" tvg-logo="https://i.imgur.com/vaVmDOR.png" group-title="🇵🇭 JUNGO TV",JUNGO TV PINOY
-https://jungotvstream-chanall.akamaized.net/jungotv/jungopinoytv/stream.m3u8
-
-#EXTINF:-1 tvg-id="hollypop" tvg-name="HALLYPOP" tvg-logo="https://i.imgur.com/vaVmDOR.png" group-title="🇵🇭 JUNGO TV",HALLYPOP
-https://jungotvstream-chanall.akamaized.net/jungotv/hallypop/stream.m3u8
-
-#EXTINF:-1 tvg-id="screamflix" tvg-name="SCREAMFLIX" tvg-logo="https://i.imgur.com/vaVmDOR.png" group-title="🇵🇭 JUNGO TV",SCREAMFLIX
-https://jungotvstream-chanall.akamaized.net/jungotv/screamflix/stream.m3u8
-
-#EXTINF:-1 tvg-id="combatgo" tvg-name="COMBAT GO" tvg-logo="https://i.imgur.com/vaVmDOR.png" group-title="🇵🇭 JUNGO TV",COMBAT GO
-https://jungotvstream-chanall.akamaized.net/jungotv/combatgo/stream.m3u8
-
-#EXTINF:-1 tvg-id="frontrow" tvg-name="FRONTROW" tvg-logo="https://i.imgur.com/vaVmDOR.png" group-title="🇵🇭 JUNGO TV",FRONTROW
-https://jungotvstream-chanall.akamaized.net/jungotv/frontrow/stream.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FREE IPTV", Sky cinema atlantic
-https://ie.sonyrepairs.com/satlantic/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FREE IPTV", Sky cinema animation
-https://ie.sonyrepairs.com/skcineanimation/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FREE IPTV", Sky cinema comedy
-https://ie.sonyrepairs.com/skcinecomedy/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FREE IPTV", Sky cinema family
-https://ie.sonyrepairs.com/skcinefamily/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FREE IPTV", Sky cinema hits
-https://ie.sonyrepairs.com/skcinehits/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FREE IPTV", Sky cinema select
-https://ie.sonyrepairs.com/skcineselect/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FREE IPTV", Sky cinema thriller
-https://ie.sonyrepairs.com/skcinethriller/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FREE IPTV", Sky cinema Comedy
-https://ie.sonyrepairs.com/skcomedy/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FREE IPTV", Sky cinema crime
-https://ie.sonyrepairs.com/skcrime/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FREE IPTV", Sky cinema max
-https://ie.sonyrepairs.com/skmax/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FREE IPTV", Sky cinema showcase
-https://ie.sonyrepairs.com/skshowcase/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FREE IPTV", Sky cinema action
-https://ie.sonyrepairs.com/skcineaction/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FREE IPTV", Sky cinema premiere
-https://ie.sonyrepairs.com/skcinepremiere/index.m3u8
 
 
 
@@ -135,12 +96,11 @@ https://ie.sonyrepairs.com/skcinepremiere/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Dummy" tvg-name="Star Movies HD" tvg-logo="https://i.imgur.com/n1QoXez.png" group-title="Movie Central",Star Movies HD
-http://opplextv.cyou:8080/live/52882216/581881255/348059.ts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-name="Star Movies Select HD" tvg-logo="https://i.imgur.com/7OjPgvd.png" group-title="Movie Central",Star Movies Select HD
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=21109&extension=m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Movies" tvg-logo="https://cdn.pixabay.com/photo/2023/08/26/05/23/india-map-8214176_1280.png" group-title="INDIA",Star Movies
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/659476
+#EXTINF:-1 tvg-id="" tvg-name="IN: STAR Movies Select HD" tvg-logo="https://cdn.pixabay.com/photo/2023/08/26/05/23/india-map-8214176_1280.png" group-title="INDIA",STAR Movies Select HD
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/659504
 
 
 
