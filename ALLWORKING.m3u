@@ -53,6 +53,10 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapactionflix_hd1.mpd
 #EXTINF:-1 tvg-id="tapmovies2" tvg-name="TAP MOVIES (CIG)" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="🇵🇭 CONV-CIG MOVIES",TAP MOVIES (CIG)
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapmovies_hd1.mpd
 
+#EXTINF:-1 tvg-id="TAPSPORTS.ph" group-title="GABRIEL : FREE LOCAL PLAYLIST" ch-number = "" tvg-logo="https://i.imgur.com/EEDMg6S.png", Tap Sports
+#KODIPROP:inputstream.adaptive.license_type=Clearkey
+#KODIPROP:inputstream.adaptive.license_key=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 
 #EXTINF:-1 tvg-id="skyaction.uk" tvg-name="UK: Sky Cinema Action & Adventure" tvg-logo="https://dm8eklel4s62k.cloudfront.net/images/sky/small/sky_cinema_on_dark.png" group-title="UK MOVIES", Sky Cinema Action & Adventure
 http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/508107
