@@ -10,6 +10,36 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 
 
 
+#EXTINF:-1 tvg-id="ROCKENTERTAINMENT.ph" group-title="GABRIEL : FREE LOCAL PLAYLIST" ch-number = "" tvg-logo="https://i.imgur.com/DP36vpY.png", Rock Entertainment
+#KODIPROP:inputstream.adaptive.license_type=Clearkey
+#KODIPROP:inputstream.adaptive.license_key=e4ee0cf8ca9746f99af402ca6eed8dc7:be2a096403346bc1d0bb0f812822bb62
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_rockentertainment.mpd
+#EXTINF:-1 tvg-id="ROCKACTION.ph" group-title="GABRIEL : FREE LOCAL PLAYLIST" ch-number = "" tvg-logo="https://i.imgur.com/PJZmoyW.png", Rock Action
+#KODIPROP:inputstream.adaptive.license_type=Clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f852fb8412b11edb8780242ac120002:4cbc004d8c444f9f996db42059ce8178
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_rockextreme.mpd
+#EXTINF:-1 tvg-id="Tapactionflix.Hd.ph" group-title="GABRIEL : FREE LOCAL PLAYLIST" ch-number = "" tvg-logo="https://i.imgur.com/70wmIdp.png", Tap Action Flix
+#KODIPROP:inputstream.adaptive.license_type=Clearkey
+#KODIPROP:inputstream.adaptive.license_key=bee1066160c0424696d9bf99ca0645e3:f5b72bf3b89b9848de5616f37de040b7
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapactionflix_hd1.mpd
+#EXTINF:-1 tvg-id="TAPEDGE.ph" group-title="GABRIEL : FREE LOCAL PLAYLIST" ch-number = "" tvg-logo="https://i.imgur.com/EKt9NGv.png", Tap Edge
+#KODIPROP:inputstream.adaptive.license_type=Clearkey
+#KODIPROP:inputstream.adaptive.license_key=4553f7e8011f411fb625cefc39274300:98f2f1d153367e84b5d559dc9dfb9a35
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_tapedge.mpd
+#EXTINF:-1 tvg-id="TAPMOVIES.ph" group-title="GABRIEL : FREE LOCAL PLAYLIST" ch-number = "" tvg-logo="https://i.imgur.com/5mRcvMS.png", Tap Movies
+#KODIPROP:inputstream.adaptive.license_type=Clearkey
+#KODIPROP:inputstream.adaptive.license_key=71cbdf02b595468bb77398222e1ade09:c3f2aa420b8908ab8761571c01899460
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapmovies_hd1.mpd
+#EXTINF:-1 tvg-id="TAPSPORTS.ph" group-title="GABRIEL : FREE LOCAL PLAYLIST" ch-number = "" tvg-logo="https://i.imgur.com/EEDMg6S.png", Tap Sports
+#KODIPROP:inputstream.adaptive.license_type=Clearkey
+#KODIPROP:inputstream.adaptive.license_key=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
+
+
+
+
+
+
 
 
 
