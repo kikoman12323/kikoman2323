@@ -121,8 +121,10 @@ http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/659504
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" ,TLC
-https://cdn09jtedge.indihometv.com/joss/133/tlc/index.m3u8
+#EXTINF:-1 tvg-id="TLC.us" tvg-name="US: TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="USA ENT HD",TLC
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/417914
+#EXTINF:-1 tvg-id="TLCPacific.us" tvg-name="US: TLC (West)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="USA ENT HD",TLC (West)
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/419361
 
 #EXTINF:-1,US | National Geographic
 http://fl2.moveonjoy.com/National_Geographic/index.m3u8
